@@ -1,13 +1,3 @@
----
-title: Faculty Connect
-emoji: 🎓
-colorFrom: green
-colorTo: yellow
-sdk: docker
-app_port: 7860
-pinned: false
----
-
 # FACULTY CONNECT
 > **Tagline:** Making Academic Communication Smarter, Faster and More Organised.  
 > **Course:** INT335 Design Thinking Group Innovation Project  
